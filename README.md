@@ -17,7 +17,7 @@ In this game, players need to click on the black tiles as they descend towards t
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your_username/piano_tiles_game.git
+    git clone https://github.com/sairam-penjarla/piano-tiles-game.git
     ```
 
 2. Install the required dependencies:
